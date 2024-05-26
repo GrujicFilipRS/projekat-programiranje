@@ -17,6 +17,8 @@ namespace projekat_programiranje
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+
+            Korisnik.UcitajKorisnika();
         }
     }
 }

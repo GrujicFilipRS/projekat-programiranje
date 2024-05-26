@@ -16,5 +16,15 @@ namespace projekat_programiranje
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Korisnik.SacuvajKorisnika();
+        }
     }
 }

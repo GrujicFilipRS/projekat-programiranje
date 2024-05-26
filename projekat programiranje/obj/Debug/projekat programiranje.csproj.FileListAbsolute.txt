@@ -1,0 +1,10 @@
+C:\Users\fgrujic\Documents\rad\prog\projekat\projekat programiranje\projekat programiranje\bin\Debug\projekat programiranje.exe.config
+C:\Users\fgrujic\Documents\rad\prog\projekat\projekat programiranje\projekat programiranje\bin\Debug\projekat programiranje.exe
+C:\Users\fgrujic\Documents\rad\prog\projekat\projekat programiranje\projekat programiranje\bin\Debug\projekat programiranje.pdb
+C:\Users\fgrujic\Documents\rad\prog\projekat\projekat programiranje\projekat programiranje\obj\Debug\projekat programiranje.csproj.AssemblyReference.cache
+C:\Users\fgrujic\Documents\rad\prog\projekat\projekat programiranje\projekat programiranje\obj\Debug\projekat programiranje.csproj.SuggestedBindingRedirects.cache
+C:\Users\fgrujic\Documents\rad\prog\projekat\projekat programiranje\projekat programiranje\obj\Debug\projekat_programiranje.Properties.Resources.resources
+C:\Users\fgrujic\Documents\rad\prog\projekat\projekat programiranje\projekat programiranje\obj\Debug\projekat programiranje.csproj.GenerateResource.cache
+C:\Users\fgrujic\Documents\rad\prog\projekat\projekat programiranje\projekat programiranje\obj\Debug\projekat programiranje.csproj.CoreCompileInputs.cache
+C:\Users\fgrujic\Documents\rad\prog\projekat\projekat programiranje\projekat programiranje\obj\Debug\projekat programiranje.exe
+C:\Users\fgrujic\Documents\rad\prog\projekat\projekat programiranje\projekat programiranje\obj\Debug\projekat programiranje.pdb

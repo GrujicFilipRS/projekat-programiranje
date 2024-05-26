@@ -1,0 +1,48 @@
+﻿{
+  "ime": "Osnovna istorija",
+  "desk": "Prosti kviz o istoriji",
+
+  "pitanja": {
+    "p1": {
+      "pitanje": "Kada je počeo Drugi svetski rat?",
+      "odgovori": {
+        "1945": "f",
+        "1959": "f",
+        "1939": "t",
+        "2001": "f"
+      },
+      "tip_pitanja": "kviz",
+      "broj_poena": 10,
+      "vreme_dato": 5
+    },
+
+    "p2": {
+      "pitanje": "Napoleon je bio Nemac?",
+      "tip_pitanja": "tn",
+      "odgovor": "f",
+      "broj_poena": 10,
+      "vreme_dato": 5
+    },
+
+    "p3": {
+      "pitanje": "Kada se desio Berlinski kongres?",
+      "odgovori": {
+        "1839": "f",
+        "1878": "t",
+        "1922": "f",
+        "1945": "f"
+      },
+      "tip_pitanja": "kviz",
+      "broj_poena": 10,
+      "vreme_dato": 5
+    },
+
+    "p4": {
+      "pitanje": "9/11 se desio 2002?",
+      "tip_pitanja": "tn",
+      "odgovor": "n",
+      "broj_poena": 10,
+      "vreme_dato": 5
+    }
+  }
+}

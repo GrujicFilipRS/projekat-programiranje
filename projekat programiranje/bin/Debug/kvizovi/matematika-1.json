@@ -1,0 +1,48 @@
+{
+  "ime": "Prosta matematika",
+  "desk": "Kviz o prostom sabiranju i oduzimanju",
+
+  "pitanja": {
+    "p1": {
+      "pitanje": "2 + 2 = ?",
+      "odgovori": {
+        "4": "t",
+        "5": "f",
+        "2": "f",
+        "3": "f"
+      },
+      "tip_pitanja": "kviz",
+      "broj_poena": 10,
+      "vreme_dato": 5
+    },
+
+    "p2": {
+      "pitanje": "7 - 2 = 5",
+      "tip_pitanja": "tn",
+      "odgovor": "t",
+      "broj_poena": 10,
+      "vreme_dato": 5
+    },
+
+    "p3": {
+      "pitanje": "27 - 68 = ?",
+      "odgovori": {
+        "-40": "f",
+        "-41": "t",
+        "-34": "f",
+        "32": "f"
+      },
+      "tip_pitanja": "kviz",
+      "broj_poena": 10,
+      "vreme_dato": 5
+    },
+
+    "p4": {
+      "pitanje": "100 - 25 = 65",
+      "tip_pitanja": "tn",
+      "odgovor": "n",
+      "broj_poena": 10,
+      "vreme_dato": 5
+    }
+  }
+}
