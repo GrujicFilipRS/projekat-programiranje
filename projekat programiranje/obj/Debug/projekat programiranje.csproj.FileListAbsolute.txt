@@ -8,3 +8,35 @@ C:\Users\fgrujic\Documents\rad\prog\projekat\projekat programiranje\projekat pro
 C:\Users\fgrujic\Documents\rad\prog\projekat\projekat programiranje\projekat programiranje\obj\Debug\projekat programiranje.csproj.CoreCompileInputs.cache
 C:\Users\fgrujic\Documents\rad\prog\projekat\projekat programiranje\projekat programiranje\obj\Debug\projekat programiranje.exe
 C:\Users\fgrujic\Documents\rad\prog\projekat\projekat programiranje\projekat programiranje\obj\Debug\projekat programiranje.pdb
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\bin\Debug\projekat programiranje.exe.config
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\bin\Debug\projekat programiranje.exe
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\bin\Debug\projekat programiranje.pdb
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\bin\Debug\System.Buffers.dll
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\bin\Debug\System.Memory.dll
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\bin\Debug\System.Text.Json.dll
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\bin\Debug\System.ValueTuple.dll
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\bin\Debug\System.Buffers.xml
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\bin\Debug\System.Memory.xml
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\bin\Debug\System.Text.Json.xml
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\bin\Debug\System.ValueTuple.xml
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\obj\Debug\projekat programiranje.csproj.AssemblyReference.cache
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\obj\Debug\projekat programiranje.csproj.SuggestedBindingRedirects.cache
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\obj\Debug\projekat_programiranje.Form1.resources
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\obj\Debug\projekat_programiranje.Properties.Resources.resources
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\obj\Debug\projekat programiranje.csproj.GenerateResource.cache
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\obj\Debug\projekat programiranje.csproj.CoreCompileInputs.cache
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\obj\Debug\projekat programiranje.csproj.CopyComplete
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\obj\Debug\projekat programiranje.exe
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\obj\Debug\projekat programiranje.pdb
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fgrujic\Documents\rad\prog\projekat-programiranje\projekat programiranje\bin\Debug\Newtonsoft.Json.xml
