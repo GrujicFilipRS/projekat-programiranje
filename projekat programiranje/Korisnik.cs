@@ -29,7 +29,6 @@ namespace projekat_programiranje
         {
             // TODO Gartman
         }
-
         struct data
         {
             public int _totalPoeni;
