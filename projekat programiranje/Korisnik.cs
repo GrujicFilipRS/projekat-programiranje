@@ -25,9 +25,38 @@ namespace projekat_programiranje
         public static double razlomakEjsovanihProdjenih = 0.0; // broj ejsovanih / broj prodjenih
         public static Dictionary<string, int> uradjeniKvizovi = new Dictionary<string, int>();
 
+        public struct KorisnikDeserializovan
+        {
+            [JsonProperty("_totalPoeni")]
+            public int totalPoeni { get; set; }
+
+            [JsonProperty("_prosecnaTacnost")]
+            public double prosecnaTacnost { get; set; }
+
+            [JsonProperty("_brojProdjenihKvizova")]
+            public int brojProdjenihKvizova { get; set; }
+
+            [JsonProperty("_brojEjsovanihKvizova")]
+            public int brojEjsovanihKvizova { get; set; }
+
+            [JsonProperty("_razlomakEjsovanihProdjenih")]
+            public double razlomakEjsovanihProdjenih { get; set; }
+
+            [JsonProperty("_uradjeniKvizovi")]
+            public Dictionary<string, int> uradjeniKvizovi { get; set; }
+        };
+
         public static void UcitajKorisnika()
         {
-            // TODO Gartman
+            string text = File.ReadAllText("./korisnik.json");
+            var objekat = JsonConvert.DeserializeObject<KorisnikDeserializovan>(text);
+
+            totalPoeni = objekat.totalPoeni;
+            prosecnaTacnost = objekat.prosecnaTacnost;
+            brojProdjenihKvizova = objekat.brojProdjenihKvizova;
+            brojEjsovanihKvizova = objekat.brojEjsovanihKvizova;
+            razlomakEjsovanihProdjenih = objekat.razlomakEjsovanihProdjenih;
+            uradjeniKvizovi = objekat.uradjeniKvizovi;
         }
         struct data
         {
