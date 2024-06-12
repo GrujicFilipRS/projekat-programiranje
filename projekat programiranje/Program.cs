@@ -11,16 +11,17 @@ namespace projekat_programiranje
 {
     internal static class Program
     {
+        public static Kviz[] kvizovi;
+        public static Kviz kvizSelektovan;
+
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
         static void Main()
         {
-            Korisnik.UcitajKorisnika();
 
-            Kviz matematika1 = new Kviz("./kvizovi/matematika-1.json");
-            Kviz istorija1 = new Kviz("./kvizovi/istorija-1.json");
+            kvizovi = Kviz.UcitajKvizove();
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);

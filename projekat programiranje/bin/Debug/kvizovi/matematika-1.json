@@ -40,9 +40,40 @@
     "p4": {
       "pitanje": "100 - 25 = 65",
       "tip_pitanja": "tn",
-      "odgovor": "n",
+      "odgovor": "f",
       "broj_poena": 10,
       "vreme_dato": 5
+    },
+
+    "p5": {
+      "pitanje": "Ako podeliš 100 na pola i dodaš 50, koliko imaš?",
+      "tip_pitanja": "kviz",
+      "odgovori": {
+        "-21.57": "f",
+        "100": "t",
+        "69": "f",
+        "11.111": "f"
+      },
+      "broj_poena": 10
+    },
+
+    "p6": {
+      "pitanje": "Ako jedna knjiga košta 7 eura, koliko koštaju 4 knjige?",
+      "tip_pitanja": "kviz",
+      "odgovori": {
+        "28": "t",
+        "26": "f",
+        "27": "f",
+        "24": "f"
+      },
+      "broj_poena": 10
+    },
+
+    "p7": {
+      "pitanje": "225/15 = 16?",
+      "tip_pitanja": "tn",
+      "odgovor": "f",
+      "broj_poena": 15
     }
   }
 }

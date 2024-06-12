@@ -12,7 +12,7 @@
         "2001": "f"
       },
       "tip_pitanja": "kviz",
-      "broj_poena": 10,
+      "broj_poena": 5,
       "vreme_dato": 5
     },
 
@@ -40,9 +40,20 @@
     "p4": {
       "pitanje": "9/11 se desio 2002?",
       "tip_pitanja": "tn",
-      "odgovor": "n",
+      "odgovor": "f",
       "broj_poena": 10,
       "vreme_dato": 5
+    },
+
+    "p5": {
+      "pitanje": "Ko je bio prvi Ruski imperator?",
+      "tip_pitanja": "kviz",
+      "odgovori": {
+        "Petar Veliki": "t",
+        "Petar Mali": "f",
+        "Petar Široki": "f",
+        "Petar Tanki": "f"
+      }
     }
   }
 }

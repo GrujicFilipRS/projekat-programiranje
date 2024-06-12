@@ -18,16 +18,14 @@ namespace projekat_programiranje
         public string tipPitanja;
         public string odgovor;
         public int brojPoena;
-        public int vremeDato;
 
-        public Pitanje(string pitanje, Dictionary<string, string> odgovori, string tipPitanja, string odgovor, int brojPoena, int vremeDato)
+        public Pitanje(string pitanje, Dictionary<string, string> odgovori, string tipPitanja, string odgovor, int brojPoena)
         {
             this.pitanje = pitanje;
             this.odgovori = odgovori;
             this.tipPitanja = tipPitanja;
             this.odgovor = odgovor;
             this.brojPoena = brojPoena;
-            this.vremeDato = vremeDato;
         }
     };
 
@@ -87,13 +85,27 @@ namespace projekat_programiranje
             foreach (string key in objekat.Pitanja.Keys)
             {
                 PitanjeDeserializovano ptnj = objekat.Pitanja[key];
-                pitanja[counterI] = new Pitanje(ptnj.Pitanje, ptnj.Odgovori, ptnj.TipPitanja, ptnj.Odgovor, ptnj.BrojPoena, ptnj.VremeDato);
+                pitanja[counterI] = new Pitanje(ptnj.Pitanje, ptnj.Odgovori, ptnj.TipPitanja, ptnj.Odgovor, ptnj.BrojPoena);
                 counterI++;
             }
 
             this.ime = ime;
             this.deskripcija = deskripcija;
             this.pitanja = pitanja;
+        }
+
+        public static Kviz[] UcitajKvizove()
+        {
+            string[] files = Directory.GetFiles("./kvizovi");
+
+            Kviz[] ret = new Kviz[files.Length];
+            
+            for(int i = 0; i < files.Length; i++)
+            {
+                ret[i] = new Kviz(files[i]);
+            }
+
+            return ret;
         }
     }
 }
